@@ -1,98 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Recipe APP</title>
 
-    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link rel="stylesheet" type="text/css" href="estilos.css" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap"
+      rel="stylesheet"
+    />
 
-    <script src="https://kit.fontawesome.com/41faca984e.js" crossorigin="anonymous"></script>
+    <script
+      src="https://kit.fontawesome.com/41faca984e.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <main class="main_container">
+      <section class="section_container">
+        <article class="header_container">
+          <div class="header_container_menu">
+            <button type="button"><i class="fa-solid fa-bars"></i></button>
+          </div>
 
+          <div class="header_container_logo">
+            <img
+              src="https://dcassetcdn.com/design_img/10150/16906/16906_294312_10150_image.jpg"
+              alt="logo recipes"
+            />
+          </div>
 
-</head>
-<body>
+          <div class="header_container_search">
+            <button type="button">
+              <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+          </div>
+        </article>
 
+        <article class="history_container"></article>
 
-    <section class="section_container">
+        <article class="randommeal_container">
+          <div class="randommeal_container_general">
+            <div class="randommeal_container_general_img">
+              <img src="" alt="" />
 
-        <div class="header_container" >
-            <div class="header_container_menu" >
-                <button type="button"> <i class="fa-solid fa-bars"></i> </button>
+              <button type="button">Random Meal</button>
             </div>
 
-            <div class="header_container_logo" >
-                <img src="https://dcassetcdn.com/design_img/10150/16906/16906_294312_10150_image.jpg" alt="logo recipes">
+            <div class="randommeal_container_general_fav">
+              <h2>Comida</h2>
+
+              <button type="button"><i class="fa-solid fa-heart"></i></button>
             </div>
+          </div>
+        </article>
 
-            <div class="header_container_search" >
-                <button type="button"> <i class="fa-solid fa-magnifying-glass"></i> </button> 
-            </div>
+        <article class="informationhistory_container"></article>
 
-        </div>
+        <article class="sidebarcontainer">
+          <div class="sidebarcontainer_header">
+            <img
+              src="https://dcassetcdn.com/design_img/10150/16906/16906_294312_10150_image.jpg"
+              alt="logo recipes"
+            />
+            <button><i class="fa-solid fa-x"></i></button>
+          </div>
 
-        <div class="history_container">
-        
+          <div class="sidebarcontainer_menu">
+            <ul class="sidebarcontainer_menu_list">
+              <li><button>CLEAR ALL HISTORYS</button></li>
+            </ul>
+          </div>
+        </article>
 
-        </div>
-
-        <div class="randommeal_container">
-
-
-            <div class="randommeal_container_general">
-
-                <div class="randommeal_container_general_img">
-                    <img src="" alt="">
-
-                    <button type="button">Random Meal</button>
-                </div>
-
-                <div class="randommeal_container_general_fav">
-                    <h2>Comida</h2>
-
-                    <button type="button"> <i class="fa-solid fa-heart"></i> </button> 
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="informationhistory_container">
-
-        </div>
-
-        <div class="sidebarcontainer">
-            <div class="sidebarcontainer_header">
-                <img src="https://dcassetcdn.com/design_img/10150/16906/16906_294312_10150_image.jpg" alt="logo recipes">
-                <button><i class="fa-solid fa-x"></i></button>
-            </div>
-
-            <div class="sidebarcontainer_menu">
-                <ul class="sidebarcontainer_menu_list">
-                    <li><button>CLEAR ALL HISTORYS</button></li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="header_container_searchmeal">
-            <button type="button" id="closeSearch"> <i class="fa-solid fa-x"></i></button>
-            <input type="text" placeholder="Find your favorite meal">
-            <button type="button" id="findSearch"> <i class="fa-solid fa-magnifying-glass"></i></button>
-            <h2></h2>
-        </div>
-
-    </section>
-
-
+        <article class="header_container_searchmeal">
+          <button type="button" id="closeSearch">
+            <i class="fa-solid fa-x"></i>
+          </button>
+          <input type="text" placeholder="Find your favorite meal" />
+          <button type="button" id="findSearch">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+          <h2></h2>
+        </article>
+      </section>
+    </main>
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="codigo.js"></script>
-</body>
+  </body>
 </html>
-

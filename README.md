@@ -37,7 +37,7 @@ I made a recipe page. In this page you will be able to search for meals randomly
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Recipe%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Recipe%20Page`
 
 ## Video
 

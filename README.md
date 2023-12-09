@@ -23,21 +23,9 @@ I made a recipe page. In this page you will be able to search for meals randomly
 2. CSS3
 3. HTML5
 
-## Galery
-
-![Recipe-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/recipe-0.jpg)
-
-![Recipe-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/recipe-1.jpg)
-
-![Recipe-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/recipe-2.jpg)
-
-![Recipe-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/recipe-3.jpg)
-
-![Recipe-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/recipe-4.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Recipe%20Page`
+[`https://www.diegolibonati.com.ar/#/project/44`](https://www.diegolibonati.com.ar/#/project/44)
 
 ## Video
 

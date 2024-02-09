@@ -40,4 +40,4 @@ I made a recipe page. In this page you will be able to search for meals randomly
 
 ## Video
 
-https://user-images.githubusercontent.com/99032604/199377428-bda0c1fe-efa9-4d4c-bde3-b4d389187dae.mp4
+https://github.com/DiegoLibonati/Recipe-Page/assets/99032604/8256c7f2-8002-4766-a34d-a476cbe4dda8

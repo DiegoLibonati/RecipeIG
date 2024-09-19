@@ -1,4 +1,4 @@
-# Recipe-Page
+# RecipeIG
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ I made a recipe page. In this page you will be able to search for meals randomly
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/44`](https://www.diegolibonati.com.ar/#/project/44)
+[`https://www.diegolibonati.com.ar/#/project/RecipeIG`](https://www.diegolibonati.com.ar/#/project/RecipeIG)
 
 ## Video
 
